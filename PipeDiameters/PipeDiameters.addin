@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\PipeDiameters.dll</Assembly>
+		<AddInId>BA29E26B-4527-4281-8922-EE3F8D08BF12</AddInId>
+		<FullClassName>PipeDiameters.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Наружный и внутренний диаметр труб</Text>
+	</AddIn>
+</RevitAddIns>
